@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Program247
+class Program154
 {
     static int Addition(int i, int j)
     {
